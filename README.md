@@ -1,5 +1,5 @@
 # One-step-closer
 
-###Contributors:
+##Contributors:
 - Ana Tabarcea
 - Sebastian Pop
